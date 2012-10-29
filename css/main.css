@@ -1,22 +1,38 @@
-
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
 
+.brand {
+	font-family: 'Belleza', 'Lucida Grande', 'Lucida Sans', sans-serif;
+}
 
+.brand .preamble {
+	font-size: 50%;
+}
 
+.table {
+	width: auto;
+	margin: 0px auto;
+}
 
+.table td, .table th {
+	padding-left: 1em;
+	padding-right: 1em;
+}
 
+.blue {
+	color: #084189 !important;
+}
 
+.nav-collapse, .nav-collapse.collapse {
+  height: auto;
+  overflow: auto;
+}
 
+.hero-unit {
+	padding-top: 20px;
+}
 
-
-
-
-
-
-
-
-
-
+h1 {
+	padding-bottom: .5em;
+}
