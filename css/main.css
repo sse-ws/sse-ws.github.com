@@ -50,3 +50,8 @@ h2 {
 p {
 	text-align: justify;
 }
+
+figcaption {
+	font-style: italic;
+	text-align: center;
+}
