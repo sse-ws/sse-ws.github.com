@@ -55,3 +55,23 @@ figcaption {
 	font-style: italic;
 	text-align: center;
 }
+
+@media (max-width: 768px) {
+	body {
+		padding: 3px !important;
+	}
+	.navbar-fixed-top {
+		margin: 0 0 5px 0;
+	}
+	.hero-unit {
+		margin: 0 0 5px 0;
+		padding: 5px;
+	}
+	h1 div {
+		font-size: 50%;
+	}
+	.hero-unit p {
+		font-size: 120%;
+		line-height: 120%;
+	}
+}
