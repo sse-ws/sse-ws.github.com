@@ -20,6 +20,10 @@
 	padding-right: 1em;
 }
 
+table td, table th {
+	padding: 0.5em;
+}
+
 .blue {
 	color: #084189 !important;
 }
@@ -38,6 +42,10 @@ h1 {
 }
 
 h2 {
+	text-align: center;
+}
+
+h3 {
 	text-align: center;
 }
 
