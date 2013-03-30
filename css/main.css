@@ -49,6 +49,14 @@ h3 {
 	text-align: center;
 }
 
+li, td {
+	font-size: 18px;
+	font-weight: 200;
+	line-height: 30px;
+	color: inherit;
+	margin: 5px 0px;
+}
+
 .portrait {
 	float: right;
 	padding-left: 20px;
