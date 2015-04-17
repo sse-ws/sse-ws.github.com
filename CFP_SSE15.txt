@@ -1,4 +1,4 @@
-CfP: 7th International Workshop on Social Software Engineering (SSE’15)
+CfP: 7th International Workshop on Social Software Engineering (SSE'15)
 
 http://socialse.org 
 
@@ -10,7 +10,7 @@ Bergamo, Italy - September 1, 2015
 
 ***** MOTIVATION *****
 
-The Workshop on Social Software Engineering (SSE) focuses on the interplay between social computing and software engineering. On one hand, social factors in software engineering activities, processes and tools are useful for improving the quality of development processes and the software produced by them. Examples include the role of situational awareness and multi-cultural factors in collaborative software development. On the other hand, social software mediates people-to-people communication, supporting human choices, actions and interactions with each other. Social software needs to accommodate a wide range of social concepts, such as trust, governance, reputation, and privacy. Being social, the software would also need to be receptive to users’ choices and give them a voice in the design, operation and evolution decisions. The SSE workshop brings together academic and industrial perspectives to provide models, methods, tools and approaches to address these issues. 
+The Workshop on Social Software Engineering (SSE) focuses on the interplay between social computing and software engineering. On one hand, social factors in software engineering activities, processes and tools are useful for improving the quality of development processes and the software produced by them. Examples include the role of situational awareness and multi-cultural factors in collaborative software development. On the other hand, social software mediates people-to-people communication, supporting human choices, actions and interactions with each other. Social software needs to accommodate a wide range of social concepts, such as trust, governance, reputation, and privacy. Being social, the software would also need to be receptive to users' choices and give them a voice in the design, operation and evolution decisions. The SSE workshop brings together academic and industrial perspectives to provide models, methods, tools and approaches to address these issues. 
 
 
 ***** TOPICS *****
@@ -22,10 +22,10 @@ This workshop is organized around two categories of topics:
 1) Software Engineering as a Social Activity 
 
 - Leveraging social computing in the requirements engineering, design, development, testing, and maintenance stages of software development
-- Radically-distributed software engineering, semi-anonymous collaboration, “borderless” development teams
+- Radically-distributed software engineering, semi-anonymous collaboration, "borderless" development teams
 - Enriching software engineering processes and activities to accommodate social aspects among stakeholders 
 - Analysing the use of social networks and media to connect users and incentivize their engagement in software development at design time and runtime
-- The “social” software engineer: redefining the software engineering risks, rewards, and opportunities
+- The "social" software engineer: redefining the software engineering risks, rewards, and opportunities
 - Using social media to teach software engineering and share knowledge between stakeholders 
 - Research methods, models and empirical studies on the socialness of software engineering process
 - Forward-looking scenarios and research agendas
@@ -62,10 +62,10 @@ Submission link: https://easychair.org/conferences/?conf=sse20151
 
 ***** IMPORTANT DATES *****
 
-05.06.2015	– Submission deadlines
-29.06.2015	– Review feedback
-15.07.2015	– Camera ready
-01.09.2015	– Workshop
+05.06.2015	- Submission deadlines
+29.06.2015	- Review feedback
+15.07.2015	- Camera ready
+01.09.2015	- Workshop
 
 
 ***** ORGANIZERS *****
