@@ -76,6 +76,7 @@ Alberto Sillitti, Free University of Bolzano-Bozen, Italy
 
 
 ***** STEERING COMMITTE *****
+Filippo Lanubile, University of Bari, Italy
 Raian Ali, Bournemouth University, UK 
 Andrew Begel, Microsoft Research USA 
 Imed Hammouda Chalmers and University of Gothenburg, Sweden
@@ -90,7 +91,7 @@ Fabiano Dalpiaz, Utrecht University, The Netherlands
 Rosalba Giuffrida, IT University of Copenhagen, Denmark
 Imed Hammouda, Chalmers and University of Gothenburg, Sweden
 Eric Knauss, University of Gothenburg, Sweden
-Dennis Pagano, MoID GmbH, Germany
+Dennis Pagano, CQSE GmbH, Germany
 Rafael Prikladnicki, PUCRS, Brazil
 Norbert Seyff, University of Zurich, Switzerland
 Leif Singer, iDoneThis.com, USA / University of Victoria, Canada
@@ -103,5 +104,7 @@ Mohamed Amine Chatti, RWTH Aachen University, Germany
 Gail E. Kaiser, Columbia University, USA
 Kelly Lyons, University of Toronto, Canada
 Keith Phalp, Bournemouth University, UK 
-Margaret-Anne Storey, University of Victoria, Canada  
+Margaret-Anne Storey, University of Victoria, Canada
+Kelly Blincoe, Auckland University of Technology, New Zealand
+Timo Johann, University of Hamburg, Germany
 
