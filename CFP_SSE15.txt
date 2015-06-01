@@ -7,7 +7,7 @@ http://esec-fse15.dei.polimi.it/
 
 Bergamo, Italy - September 1, 2015
 
-Paper submission: 5th June, 2015
+Paper submission: 15th June, 2015
 
 
 ***** MOTIVATION *****
@@ -64,7 +64,7 @@ Submission link: https://easychair.org/conferences/?conf=sse20151
 
 ***** IMPORTANT DATES *****
 
-05.06.2015	- Submission deadlines
+15.06.2015	- Submission deadlines
 29.06.2015	- Review feedback
 15.07.2015	- Camera ready
 01.09.2015	- Workshop
