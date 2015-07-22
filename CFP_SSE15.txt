@@ -72,7 +72,7 @@ Submission link: https://easychair.org/conferences/?conf=sse20151
 
 ***** ORGANIZERS *****
 Imed Hammouda, Chalmers and University of Gothenburg, Sweden
-Alberto Sillitti, Free University of Bolzano-Bozen, Italy
+Alberto Sillitti, Center for Applied Software Engineering, Free University of Bolzano, Italy
 
 
 ***** STEERING COMMITTE *****
@@ -97,7 +97,7 @@ Norbert Seyff, University of Zurich, Switzerland
 Leif Singer, iDoneThis.com, USA / University of Victoria, Canada
 Damian Andrew Tamburri, Vrije University Amsterdam, The Netherlands
 Christoph Treude, McGill University, Canada
-Alberto Sillitti, Free University of Bolzano-Bozen, Italy
+Alberto Sillitti, Center for Applied Software Engineering, Free University of Bolzano, Italy
 Filippo Lanubile, University of Bari, Italy
 Raian Ali, Bournemouth University, UK
 Mohamed Amine Chatti, RWTH Aachen University, Germany
