@@ -1,13 +1,13 @@
-CfP: 7th International Workshop on Social Software Engineering (SSE'15)
+CfP: 8th International Workshop on Social Software Engineering (SSE'16)
 
-http://socialse.org 
+http://sse-ws.github.io
 
-Workshop Co-located with the 10th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2015) 
-http://esec-fse15.dei.polimi.it/
+Workshop Co-located with the 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE 2016) 
+http://www.cs.ucdavis.edu/fse2016/
 
-Bergamo, Italy - September 1, 2015
+Seattle, WA, USA - November 13/14, 2016
 
-Paper submission: 15th June, 2015
+Paper submission: TBD
 
 
 ***** MOTIVATION *****
