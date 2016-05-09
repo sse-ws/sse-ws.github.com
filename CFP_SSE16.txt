@@ -47,5 +47,21 @@ Raian Ali, Bournemouth University, UKImad Hammouda, Chalmers and University of 
 
 
 ***** PROGRAM COMMITTEE (partial) *****
-TBD
+Raian Ali, Bournemouth University, UK
+Kelly Blincoe, Auckland University of Technology, New Zealand
+Fabiano Dalpiaz, Utrecht University, The Netherlands
+Rosalba Giuffrida, Bownty, Denmark
+Daniel Graziottin, University of Stuttgart, Germany
+Imed Hammouda, Chalmers and University of Gothenburg, Sweden
+Gail E. Kaiser, Columbia University, USA
+Eric Knauss, University of Gothenburg, Sweden
+Filippo Lanubile, University of Bari, Italy
+Walid Maalej, University of Hamburg, Germany
+Nicole Novielli, University of Bari, Italy (Communications Chair: @NicoleNovielli)
+Bashar Nuseibeh, The Open University, UK
+Alberto Sillitti, Center for Applied Software Engineering, Free University of Bolzano, Italy
+Damian Andrew Tamburri, Politecnico di Milano, Italy
+Bogdan Vasilescu, University of California, Davis, USA
+
+
 
