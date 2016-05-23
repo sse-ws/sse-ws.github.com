@@ -59,6 +59,7 @@ Filippo Lanubile, University of Bari, Italy
 Walid Maalej, University of Hamburg, Germany
 Nicole Novielli, University of Bari, Italy (Communications Chair: @NicoleNovielli)
 Bashar Nuseibeh, The Open University, UK
+Dennis	Pagano, Technical University of Munich, Germany
 Alberto Sillitti, Center for Applied Software Engineering, Free University of Bolzano, Italy
 Damian Andrew Tamburri, Politecnico di Milano, Italy
 Bogdan Vasilescu, University of California, Davis, USA
