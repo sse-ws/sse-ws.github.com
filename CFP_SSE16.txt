@@ -39,14 +39,17 @@ Submission link: https://easychair.org/conferences/?conf=sse2016
 
 
 ***** ORGANIZERS *****
+
 Andrew Begel, Microsoft Research, Redmond, andrew.begel@microsoft.comFabio Calefato, University of Bari, Italy, fabio.calefato@uniba.itChristoph Treude, University of Adelaide, Australia, christoph.treude@adelaide.edu.au
 
 
 ***** STEERING COMMITTE *****
+
 Raian Ali, Bournemouth University, UKImad Hammouda, Chalmers and University of Gothenburg, SwedenWalid Maalej, University of Hamburg, GermanyFilippo Lanubile, University of Bari, Italy
 
 
-***** PROGRAM COMMITTEE (partial) *****
+***** PROGRAM COMMITTEE *****
+
 Raian Ali, Bournemouth University, UK
 Kelly Blincoe, Auckland University of Technology, New Zealand
 Fabiano Dalpiaz, Utrecht University, The Netherlands
