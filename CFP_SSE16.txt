@@ -35,7 +35,7 @@ Submission link: https://easychair.org/conferences/?conf=sse2016
 
 ***** IMPORTANT DATES *****
 
-  May 5, 2016	 - Call distribution   Jul. 1, 2016	 - Submission deadline  Aug. 16, 2016	 - Review feedback  Sep. 15, 2016	 - Camera ready  Nov. 14, 2016	 - Workshop
+  May   5, 2016	 - Call distribution   Jul.  1, 2016	 - Submission deadline  Aug. 16, 2016	 - Review feedback  Sep. 15, 2016	 - Camera ready  Nov. 14, 2016	 - Workshop
 
 
 ***** ORGANIZERS *****
@@ -63,7 +63,7 @@ Walid Maalej, University of Hamburg, Germany
 Nicole Novielli, University of Bari, Italy (Communications Chair: @NicoleNovielli)
 Bashar Nuseibeh, The Open University, UK
 Dennis	Pagano, Technical University of Munich, Germany
-Alberto Sillitti, Center for Applied Software Engineering, Free University of Bolzano, Italy
+Alberto Sillitti, Innopolis University, Russian Federation
 Damian Andrew Tamburri, Politecnico di Milano, Italy
 Bogdan Vasilescu, University of California, Davis, USA
 
