@@ -30,7 +30,7 @@ In this workshop, we will bring together researchers and practitioners who build
 
 Accepted papers will be published as workshop proceedings in the ACM Digital Library. We accept only electronic submissions from the workshop homepage via Easy-Chair. To be considered for review, a paper submission must be in the ACM SIGSOFT Proceedings format (see http://www.acm.org/sigs/publications/proceedings-templates). For accepted papers, at least one author should participate at the workshop and register for the workshop at ESEC/FSE'15 conference. 
 
-Submission link: https://easychair.org/conferences/?conf=sse2016
+Submission link: https://easychair.org/conferences/?conf=sse-2016
 
 
 ***** IMPORTANT DATES *****
