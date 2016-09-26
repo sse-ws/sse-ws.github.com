@@ -1,5 +1,8 @@
-Title: TBA
+Title: Lessons in Social Coding: Software Analytics in the Age of GitHub
 
-Abstract: TBA.
+Abstract: Social media has forever changed the ways in which we communicate and work, programming included. This “social coding” movement (code is meant to be shared!) made popular by GitHub has come to represent a paradigm shift in software development, especially in the open-source world. For example, the “pull request” model has made it easier than ever before for newcomers to submit contributions to a project. As a result, teams are becoming increasingly larger, more distributed, and
+more diverse. At the same time, the incentives for contributing have evolved. For example, one’s social coding activity is starting to replace one’s résumé, and directly influence their hourly wage. Today, GitHub reports 12 million users and over 30 million repositories, with popular projects having communities the size of small cities. These numbers are unprecedented in open-source!
+This new, social way of developing software opens a great many questions. How do people choose which projects to contribute to? Does prior technical experience matter, or do people learn on the job? Is it efficient to work on many projects in parallel? How does diversity in software teams affect productivity and code quality? What are the
+main factors that slow down pull request reviews? How does automation help developers do more with less? Does continuous integration help to ensure higher quality code? I will try to answer some of these questions in this talk.
 
-Short bio: Bogdan Vasilescu is…  
+Short bio: Bogdan Vasilescu is an Assistant Professor in CMU's School of Computer Science, where he is affiliated with the Institute for Software Research. Prior to joining CMU, he spent two years as postdoc at University of California, Davis, in the DECAL lab. He received his PhD and MSc in Computer Science at Eindhoven University of Technology, both with cum laude distinction. His PhD dissertation won the best dissertation award from the Dutch Institute for Programming Research and Algorithmics in 2015. Follow him on Twitter @b_vasilescu  
