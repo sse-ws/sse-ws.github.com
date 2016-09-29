@@ -60,7 +60,7 @@ Gail E. Kaiser, Columbia University, USA
 Eric Knauss, University of Gothenburg, Sweden
 Filippo Lanubile, University of Bari, Italy
 Walid Maalej, University of Hamburg, Germany
-Nicole Novielli, University of Bari, Italy (Communications Chair: @NicoleNovielli)
+Nicole Novielli, University of Bari, Italy
 Bashar Nuseibeh, The Open University, UK
 Dennis	Pagano, Technical University of Munich, Germany
 Alberto Sillitti, Innopolis University, Russian Federation
