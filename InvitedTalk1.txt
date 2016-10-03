@@ -1,5 +1,5 @@
-Title: TBA
+Title: The Rise and Fall of Developer Online Communities
 
-Abstract: TBA.
+Abstract: Technical documentation is an essential tool for communicating knowledge to developers and ensuring that platforms and APIs can be widely adopted. In recent years, developers have shifted away from consuming traditional sources of documentation (official guides and books) and instead consume crowd-created documentation. For Android, not only can more examples be found on Stack Overflow than the official documentation guide, developers may be getting as much as 50% of their documentation from Stack Overflow. While there are many benefits to these crowd resources, two main also problems exists: 1) Poor and insecure advice can propagate quickly and become a liability for the platform and ecosystem. 2) Barriers, and failing community mechanics threaten the accessibility and long-term viability of these resources. Finally, we describe a set of tools that help API and platform stakeholders assess the stability of a platform and measure the potential impact of changes on a developer community.
 
-Short bio: Chris Parnin is …  
+Short bio: Chris Parnin is Assistant Professor at NC State University. His research interests involve studying software engineering from empirical, HCI, and cognitive neuroscience perspectives. He is also interested in exploring crowd programming, alternative coding interfaces, brains and bio-sensing, and dev ops.  
